@@ -14,4 +14,8 @@ $ rosrun [pkg_name] moji.py を起動し、$ rosrun [pkg_name] type.py を起動
 banana(絵文字)、rose(絵文字)、basket(絵文字)はランダムに出力される。
 
 
+## ライセンス
+BSD 3-Clause "New" or "Revised" License
+
+
 
