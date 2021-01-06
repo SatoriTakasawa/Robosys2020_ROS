@@ -3,7 +3,7 @@ import rospy
 from std_msgs.msg import String
 
 def cb( message ):
-
+    global n
     if 'n' in message.data:
       n  = ' fruit'
     elif 'r' in message.data:
