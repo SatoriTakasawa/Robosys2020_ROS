@@ -15,7 +15,7 @@ banana(絵文字)、rose(絵文字)、basket(絵文字)はランダムに出力�
 
 
 ## ライセンス
-BSD 3-Clause "New" or "Revised" License
+BSD 3-Clause License
 
 
 ## 動画URL
