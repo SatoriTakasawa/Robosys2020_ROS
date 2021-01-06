@@ -1,6 +1,11 @@
 # Robosys2020_ROS
 ロボットシステム学課題2
 
+## インストール方法
+```
+$ makdir -p catkin_ws/src
+$ cd ~/catkin_ws/src
+
 
 ## 実行方法
 ```
