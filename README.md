@@ -13,8 +13,8 @@ $ cd script
 moji.pyとtype.pyを作成する。
 
 ## 動作環境
-・ROS Melodic Morenia
-・Ubuntu20.04
+・ROS Melodic Morenia　　
+・Ubuntu20.04　　
 ・Python 3.8.5
 
 ## 実行方法
