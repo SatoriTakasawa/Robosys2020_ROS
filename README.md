@@ -17,7 +17,7 @@ moji.pyとtype.pyを作成する。
 
 ・Ubuntu20.04
 
-・Python 3.8.5
+・ython 3.8.5
 
 ## 実行方法
 ```
