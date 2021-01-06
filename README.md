@@ -4,9 +4,9 @@
 
 ## 実行方法
 ```
-$ roscore
-$ rosrun [mypkg] moji.py
-$ rosrun [mypkg] type.py
+端末①$ roscore
+端末②$ rosrun [mypkg] moji.py
+端末③$ rosrun [mypkg] type.py
 ```
 
 ## 動作内容
