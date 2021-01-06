@@ -1,11 +1,21 @@
 # Robosys2020_ROS
 ロボットシステム学課題2
 
-## インストール方法
+## 環境構築
 ```
-$ makdir -p catkin_ws/src
+$ mkdir -p catkin_ws/src
 $ cd ~/catkin_ws/src
+$ catkin_create_pkg mypkg rospy 
+$ cd mypkg
+$ mkdir scripts
+$ cd script
+```
+moji.pyとtype.pyを作成する。
 
+## 動作環境
+・ROS Melodic Morenia
+・Ubuntu20.04
+・Python 3.8.5
 
 ## 実行方法
 ```
