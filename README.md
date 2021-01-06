@@ -1,6 +1,14 @@
 # Robosys2020_ROS
 ロボットシステム学課題2
 
+## 動作環境
+・OS Melodic Morenia
+
+・Ubuntu20.04
+
+・python 3.8.5
+
+
 ## 環境構築
 ```
 $ mkdir -p catkin_ws/src
@@ -12,12 +20,6 @@ $ cd script
 ```
 moji.pyとtype.pyを作成する。
 
-## 動作環境
-・ROS Melodic Morenia
-
-・Ubuntu20.04
-
-・ython 3.8.5
 
 ## 実行方法
 ```
