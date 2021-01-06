@@ -5,8 +5,8 @@
 ## 実行方法
 ```
 $ roscore
-$ rosrun [pkg_name] moji.py
-$ rosrun [pkg_name] type.py
+$ rosrun [mypkg] moji.py
+$ rosrun [mypkg] type.py
 ```
 
 ## 動作内容
