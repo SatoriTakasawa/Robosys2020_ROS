@@ -13,8 +13,8 @@
 ```
 $ mkdir -p catkin_ws/src
 $ cd ~/catkin_ws/src
-$ catkin_create_pkg mypkg rospy 
-$ cd mypkg
+$ catkin_create_pkg msgpkg rospy 
+$ cd msgpkg
 $ mkdir scripts
 $ cd scripts
 ```
@@ -24,12 +24,12 @@ moji.pyとtype.pyを作成する。
 ## 実行方法
 ```
 端末① $ roscore
-端末② $ rosrun [mypkg] moji.py
-端末③ $ rosrun [mypkg] type.py
+端末② $ rosrun [msgpkg] moji.py
+端末③ $ rosrun [msgpkg] type.py
 ```
 
 ## 動作内容
-`$ rosrun [pkg_name] moji.py` を起動し、`$ rosrun [pkg_name] type.py` を起動すると、banana(絵文字)の後ろにfruitが、rose(絵文字)の後ろにflowerが、basket(絵文字)の後ろにsportが出力される。  
+`$ rosrun [msgpkg] moji.py` を起動し、`$ rosrun [msgpkg] type.py` を起動すると、banana(絵文字)の後ろにfruitが、rose(絵文字)の後ろにflowerが、basket(絵文字)の後ろにsportが出力される。  
 banana(絵文字)、rose(絵文字)、basket(絵文字)はランダムに出力される。
 
 
